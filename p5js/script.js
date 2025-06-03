@@ -58,7 +58,7 @@ function setup() {
     });
 }
 
-// --------------- file 매개변수로 받아서 조건에 따라 곡 변경 및 재생, 멈추기  --------------
+// --------------- file 매개변수로 받아서 조건에 따라 곡 변경 및 재생, 멈추기 (조건문 예외처리 및 리팩토링 CHATGPT 활용)  --------------
 function toggleOrSwitchTrack(file) {
     if (file !== currentFile) {
         song?.isPlaying() && song.stop();
