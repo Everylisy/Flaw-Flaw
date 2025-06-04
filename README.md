@@ -8,7 +8,7 @@
 
 | 페이지               | 코드 링크(js)                                                                                      | 배포 링크                                                                            |
 | -------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| FLAW, FLAW | [코드 보러가기](https://github.com/Everylisy/Flaw-Flaw/blob/master/p5js/script.js) | [웹페이지 바로가기](https://flaw-flaw.vercel.app/) |
+| FLAW, FLAW | [코드 보러가기](https://github.com/Everylisy/Flaw-Flaw/blob/master/p5js/script.js) | [웹페이지 바로가기](https://flaw-flaw-f3jk.vercel.app/) |
 
 <br>
 
